@@ -378,7 +378,7 @@ This project is intended for educational and portfolio purposes. If you plan to 
 
 **Your Name**
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/khorshed31
 
 ---
 
